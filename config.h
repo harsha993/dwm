@@ -6,7 +6,7 @@ static const unsigned int gappx     = 2;        /* gap pixel between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = {"NotoSans-Regular:size=7", "SauceCodePro Nerd Font:size=9"};
+static const char *fonts[]          = {"NotoSans-Regular:size=7","Font Awesome 5 Free Solid:size=8"/*,"SauceCodePro Nerd Font:size=9"*/};
 static const char dmenufont[]       = "SauceCodePro Nerd Font Mono:size=7";
 static const char col_gray1[]       = "#081f2d";
 static const char col_gray2[]       = "#444444";
